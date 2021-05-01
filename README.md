@@ -1,1 +1,6 @@
 # TweetSentimentAnalysistest
+### Data Resources<br>
+~~~
+News_final.csv: https://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms
+KCCq28_Q01_txt: http://nlp.kookmin.ac.kr/kcc/
+~~~
