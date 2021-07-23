@@ -1,6 +1,4 @@
-[Go to presentation slide file](https://drive.google.com/file/d/1V1TRaSqLwjVOL0PGyRuDxgao-79WLEOk/view?usp=sharing/)
-
-# 뉴스 헤드라인 감성분석 프로젝트
+# 뉴스 헤드라인 감성분석 프로젝트([Presentation slide file](https://drive.google.com/file/d/1V1TRaSqLwjVOL0PGyRuDxgao-79WLEOk/view?usp=sharing/))
 
 ## 프로젝트 기획 배경
 
